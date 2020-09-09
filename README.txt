@@ -1,16 +1,16 @@
-Listas y arreglos en C++
-Junio 2019
+Lists and Arrays in C ++
+June 2019
 
-Para ejecutar el programa es ir a la carpeta mediante su consola o terminal al folder
-en el que se encuentra el programa, ya sean los metodos de ordenamiento y busqueda o
-el de listas y sus posibles funciones en OOP. Debe ingresar y digitar en la consola o terminal:
+To run the program is to go to the folder through your console or terminal to the folder
+in which the program is located, either the ordering and search methods or
+the list and its possible functions in OOP. You must enter and type in the console or terminal:
 
 $ make
 
- Si el copilador falla, puede ser porque tiene ciertos requerimeintos, posibles, por lo
- que debera digitar en la consola o terminal:
+ If the compiler fails, it may be because it has certain possible requirements, so
+ that you should type in the console or terminal:
 
- Instala librerias en Debian/Ubuntu:
+ Install libraries in Debian / Ubuntu:
  $ sudo apt-get install libncurses5-dev libncursesw5-dev
- Necesita algun actualizacion:
- $ softwareupdate --install -a
+ Need some update:
+ $ software update --install -a
